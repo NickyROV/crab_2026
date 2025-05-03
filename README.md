@@ -1,5 +1,5 @@
 # kingcrab_2026
-Two layers control  
+Two layers independent control  
 |Specification|Layer 1|Layer 2| 
 |-----|-----|-----|
 |Purpose|manoeuvre|claws control|
