@@ -1,0 +1,10 @@
+Fremework : ROS2 Humble Hawksbill
+Surface Hardware 1: Raspberry pi400 running ROS2 Humble on Ubuntu Jammy Desktop
+Surface Hardware 2: WiFi Router
+ROV-WTC Hardware 1: Raspberry Pi3 running ROS2 Humble on Ubuntu Jammy Server
+
+---
+||Surface|ROV_WTC|
+---
+|Feature|dryside|wetside|
+---
