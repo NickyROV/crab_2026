@@ -14,5 +14,4 @@ ROV-WTC Hardware 2 : pca9685 16 servos controller (I2C)
 |Programe|keyboard.cpp|servo.cpp|
 |Node|keyboard|servo|
 |node in rqt|/keyboard_node|/servo_controller|
-|Topic name|/servo_controller|/servo_controller|
-|Topic |publish|subscribe|
+|Topic /Keyboard_command|publish|subscribe|
