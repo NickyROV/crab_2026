@@ -1,5 +1,5 @@
 **Fremework** : ROS2 Humble Hawksbill   
-Surface Pi: Raspberry pi400 running ROS2 Humble on Ubuntu Jammy Desktop   
+Surface Pi: Raspberry pi400 with keyboard running ROS2 Humble on Ubuntu Jammy Desktop   
 Surface Router: WiFi Router   
 
 **Communication Interface** : Ethernet Cat5   
